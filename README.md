@@ -13,7 +13,7 @@ Note: Used Claude Code to refine the project since I was out of credits on Bolt
 
 ## Project Links
 
-- **Development Environment:** https://bolt.new/~/sb1-89nq6gbh
+- **Development Environment:** https://complete-sudoku-game-ss6m.bolt.host
 - **GitHub Repository:** https://github.com/EliotAtlani/cs1060-eliotatlani-hw1
 - **Live Deployment:** https://cs1060-eliotatlani-hw1.netlify.app/
 
